@@ -70,8 +70,9 @@ The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 
-
-### About the Application
+*********************
+About the Application
+*********************
 
 The web application was built using stats data available in espncricinfo.com.The application is basically an IPL 2018 stats page which contains filters based on stat type and teams as well.The above application is also hosted on web using 000webhost.Below is the link to the website.
 
